@@ -8,7 +8,7 @@
     "start": "node src/index.js"
   },
   "keywords": [],
-  "author": "Aniket Amte",
+  "author": "",
   "type": "module",
   "license": "ISC",
   "dependencies": {

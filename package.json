@@ -8,6 +8,6 @@
     "start": "npm run start --prefix Backend"
   },
   "keywords": [],
-  "author": "Aniket Amte",
+  "author": "",
   "license": "ISC"
 }
